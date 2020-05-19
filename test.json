@@ -1,0 +1,37 @@
+{
+    "title": "Privilege",
+    "shortDesc": "",
+    "description": "",
+    "headerList" : "",
+    "featuredImage": "",
+    "bannerImage": [],
+    "order": 1,
+    "ispaginate": false,    
+    "category": [
+        {
+            "title": "Shopping",
+            "shortDesc": "Privilege Shopping",
+			"categoryLink": "https://uatcreator.the1.co.th/content/the1/api/th/en/test_t1x_privilege/shopping.model.json",
+            "featuredImage": "https://uatcreator.the1.co.th/content/dam/the1/articles/image/beautrium.jpg",
+            "bannerImage": ["https://uatcreator.the1.co.th/content/dam/the1/articles/image/beautrium.jpg"
+            ],
+            "order": 1,
+            "ispaginate": true,
+            "articleCount" : 1
+        },
+        {
+            "title": "Travel",
+            "shortDesc": "Travel Privilege",
+			"categoryLink": "https://uatcreator.the1.co.th/content/the1/api/th/en/test_t1x_privilege/travel.model.json",
+            "featuredImage": "https://uatcreator.the1.co.th/content/dam/the1/articles/image/Travel_Thumb.jpg",
+            "bannerImage": [
+                "https://uatcreator.the1.co.th/content/dam/the1/articles/image/Travel_Thumb.jpg"
+            ],
+            "order": 2,
+            "ispaginate": true,
+            "articleCount" : 0
+        }
+    ],
+    "currentPage": 1,
+    "totalPages": 1
+}
